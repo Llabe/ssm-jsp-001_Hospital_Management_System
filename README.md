@@ -1,7 +1,8 @@
-# ssm576中小型医院管理系统 / ssm576-Hospital_Management_System
+# ssm-JSP-001中小型医院管理系统 / Hospital_Management_System
 
-![Spring](https://spring.io/projects/spring-framework)
-![MyBatis-Plus](https://baomidou.com/)
+![JDK](https://img.shields.io/badge/JDK-1.8+-blue)
+![MySQL](https://img.shields.io/badge/MySQL-5.7+-orange)
+![Tomcat](https://img.shields.io/badge/Tomcat-9.0+-red)
 
 
 > 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
@@ -73,6 +74,7 @@ upload.path=/src/main/webapp/upload
 # 项目实际截图：
 ## 登录：
 ![登录页](xx/login.png)
+![登录页](xx/login_后台.png)
 
 ## 前台：
 ![前台页面](xx/prefix/1.png)
